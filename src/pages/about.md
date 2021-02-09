@@ -15,7 +15,7 @@ sections:
       - dolor sit amet
     actions: []
     actions_position: bottom
-    actions_width: fourty
+    actions_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium
