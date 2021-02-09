@@ -7,6 +7,7 @@ sections:
     align: center
     background_color: secondary
     content: ''
+    image: images/about-4.jpg
   - type: features_section
     features:
       - title: Section Title One
