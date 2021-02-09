@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Try Free 4 u
         url: /pricing
-        style: link
+        style: primary
       - label: Learn More
         url: /features
         style: secondary
