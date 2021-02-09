@@ -2,7 +2,7 @@
 title: About
 sections:
   - title: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -10,9 +10,12 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      **button**
     actions: []
     actions_position: bottom
     actions_width: fifty
