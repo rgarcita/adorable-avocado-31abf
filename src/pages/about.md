@@ -17,7 +17,7 @@ sections:
 
       **button**
     actions:
-      - label: lorem-ipsum
+      - label: lorem-ipsum 2
         url: lorem-ipsum
         style: link
         has_icon: false
