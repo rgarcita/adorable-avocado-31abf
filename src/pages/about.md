@@ -1,6 +1,18 @@
 ---
 title: About
 sections:
+  - type: cta_section
+    title: This is a Call to Action
+    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    actions:
+      - label: Compare Plans
+        url: /pricing
+        style: primary
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
   - type: features_section
     features:
       - title: Section Title One
@@ -129,18 +141,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
